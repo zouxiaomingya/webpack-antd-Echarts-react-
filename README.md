@@ -83,7 +83,7 @@ module.exports = {
 
 使用如下
 
-```react
+```javascript
 import React, { useEffect, useRef } from 'react'
 import echarts from 'echarts'
 import option from './option'
